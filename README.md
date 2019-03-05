@@ -41,7 +41,7 @@
 
 - [viper](https://github.com/spf13/viper) - go配置解决方案，用于读取、修改配置文件
 - [fsm](https://github.com/looplab/fsm) - go的有限状态机
-- [token](https://github.com/dgrijalva/jwt-go) jwt-go token令牌
+- [token](https://github.com/dgrijalva/jwt-go)  - jwt-go token令牌
 
 
 
@@ -64,7 +64,7 @@
 
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - go 语言高级编程图书
 
-- [sarama](https://github.com/Shopify/sarama) Apache Kafka 0.8及以上的Go库
+- [sarama](https://github.com/Shopify/sarama) - Apache Kafka 0.8及以上的Go库
 
 - [gopsutil](https://github.com/shirou/gopsutil)
 
