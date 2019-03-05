@@ -12,7 +12,7 @@
 
 - [docker-moby](https://github.com/moby/moby) - moby 是docker的社区版本
 
-- [kubernates](https://github.com/kubernetes/kubernetes) - Kubernetes是一个开源系统，用于管理 多个主机上的[容器化应用程序](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/) ; 提供应用程序部署，维护和扩展的基本机制
+- [kubernates](https://github.com/kubernetes/kubernetes) - Kubernetes是一个开源系统，用于管理 多个主机上的容器化应用程序 ; 提供应用程序部署，维护和扩展的基本机制。[k8s文档](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 - [rancher](https://github.com/rancher/rancher) - 容器管理平台
 - [docker-ce](https://github.com/docker/docker-ce) - 官方docker版本
 - [go-dockerclient](https://github.com/fsouza/go-dockerclient) - docker远程API的客户端
@@ -75,7 +75,5 @@
 - [noise](https://github.com/perlin-network/noise) - 用 go 编写的分散式p2p网络堆栈
 
 - [golang中文学习资料](https://go.wuhaolin.cn/)
-
-  
 
   
